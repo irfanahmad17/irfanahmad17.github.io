@@ -19,27 +19,21 @@
 
 ### CERTIFICATIONS
 
-[Machine Learning](/sample_page)
 <img src="1.png"/>
 
 ---
-[Deep Learning](/sample_page)
 <img src="2.png"/>
 
 ---
-[Deep Learning](/sample_page)
 <img src="3.png"/>
 
 ---
-[Deep Learning](/sample_page)
 <img src="4.png"/>
 
 ---
-[Deep Learning](/sample_page)
 <img src="5.png"/>
 
 ---
-[Python](/sample_page)
 <img src="6.png"/>
 
 
