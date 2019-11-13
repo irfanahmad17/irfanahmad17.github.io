@@ -19,6 +19,9 @@
 
 ### CERTIFICATIONS
 
+[Machine Learning](/sample_page)
+<img src="1.png"/>
+
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
