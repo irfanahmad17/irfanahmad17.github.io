@@ -22,6 +22,27 @@
 [Machine Learning](/sample_page)
 <img src="1.png"/>
 
+---
+[Deep Learning](/sample_page)
+<img src="2.png"/>
+
+---
+[Deep Learning](/sample_page)
+<img src="3.png"/>
+
+---
+[Deep Learning](/sample_page)
+<img src="4.png"/>
+
+---
+[Deep Learning](/sample_page)
+<img src="5.png"/>
+
+---
+[Python](/sample_page)
+<img src="6.png"/>
+
+---
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
