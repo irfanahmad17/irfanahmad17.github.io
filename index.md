@@ -42,7 +42,7 @@
 [Python](/sample_page)
 <img src="6.png"/>
 
----
+
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
