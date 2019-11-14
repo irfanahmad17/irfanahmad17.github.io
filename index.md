@@ -15,7 +15,7 @@
 
 ### CERTIFICATIONS
 
-<img src="1.png" height="38" width="42"/>
+<img src="1.png" height="300" width="400"/>
 
 <img src="2.png"/>
 
