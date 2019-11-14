@@ -3,10 +3,7 @@ logo: "linkedin.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <B>Data Scientist,Machine Learning Engineer,SAP Techincal Consultant</B> 
   <br><br>
-  Irfan has Strong Software Engineering + Data Science background.
-  <br>
-  He has experience in Statistical Modeling ,Deep Learning (ANN, CNN,RNN,RNN+LSTM/GRU etc), Transfer learning and Clustering.
-  <br><br>
+
   <a href="https://www.linkedin.com/in/irfan-ahmad-31103055/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
