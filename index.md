@@ -4,6 +4,7 @@
 
 ### About Irfan 
 <p>Irfan has Strong Software Engineering + Data Science background</p>
+<p>He has experience in Statistical Modeling ,Deep Learning (ANN, CNN,RNN,RNN+LSTM/GRU etc), Transfer learning and Clustering.</p>
 
 ---
 
