@@ -17,15 +17,15 @@
 
 <img src="1.png" height="300" width="400"/>
 
-<img src="2.png"/>
+<img src="2.png" height="300" width="400"/>
 
-<img src="3.png"/>
+<img src="3.png" height="300" width="400"/>
 
-<img src="4.png"/>
+<img src="4.png" height="300" width="400"/>
 
-<img src="5.png"/>
+<img src="5.png" height="300" width="400"/>
 
-<img src="6.png"/>
+<img src="6.png" height="300" width="400"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
